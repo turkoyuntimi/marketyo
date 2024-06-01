@@ -1,0 +1,326 @@
+[
+  {
+    "value": "istanbul",
+    "name": "İstanbul"
+  },
+  {
+    "value": "ankara",
+    "name": "Ankara"
+  },
+  {
+    "value": "izmir",
+    "name": "İzmir"
+  },
+  {
+    "value": "adana",
+    "name": "Adana"
+  },
+  {
+    "value": "adiyaman",
+    "name": "Adıyaman"
+  },
+  {
+    "value": "afyonkarahisar",
+    "name": "Afyonkarahisar"
+  },
+  {
+    "value": "agri",
+    "name": "Ağrı"
+  },
+  {
+    "value": "amasya",
+    "name": "Amasya"
+  },
+  {
+    "value": "antalya",
+    "name": "Antalya"
+  },
+  {
+    "value": "artvin",
+    "name": "Artvin"
+  },
+  {
+    "value": "aydin",
+    "name": "Aydın"
+  },
+  {
+    "value": "balikesir",
+    "name": "Balıkesir"
+  },
+  {
+    "value": "bilecik",
+    "name": "Bilecik"
+  },
+  {
+    "value": "bingol",
+    "name": "Bingöl"
+  },
+  {
+    "value": "bitlis",
+    "name": "Bitlis"
+  },
+  {
+    "value": "bolu",
+    "name": "Bolu"
+  },
+  {
+    "value": "burdur",
+    "name": "Burdur"
+  },
+  {
+    "value": "bursa",
+    "name": "Bursa"
+  },
+  {
+    "value": "canakkale",
+    "name": "Çanakkale"
+  },
+  {
+    "value": "cankiri",
+    "name": "Çankırı"
+  },
+  {
+    "value": "corum",
+    "name": "Çorum"
+  },
+  {
+    "value": "denizli",
+    "name": "Denizli"
+  },
+  {
+    "value": "diyarbakir",
+    "name": "Diyarbakır"
+  },
+  {
+    "value": "edirne",
+    "name": "Edirne"
+  },
+  {
+    "value": "elazig",
+    "name": "Elazığ"
+  },
+  {
+    "value": "erzincan",
+    "name": "Erzincan"
+  },
+  {
+    "value": "erzurum",
+    "name": "Erzurum"
+  },
+  {
+    "value": "eskisehir",
+    "name": "Eskişehir"
+  },
+  {
+    "value": "gaziantep",
+    "name": "Gaziantep"
+  },
+  {
+    "value": "giresun",
+    "name": "Giresun"
+  },
+  {
+    "value": "gumushane",
+    "name": "Gümüşhane"
+  },
+  {
+    "value": "hakkari",
+    "name": "Hakkari"
+  },
+  {
+    "value": "hatay",
+    "name": "Hatay"
+  },
+  {
+    "value": "isparta",
+    "name": "Isparta"
+  },
+  {
+    "value": "mersin",
+    "name": "Mersin"
+  },
+  {
+    "value": "kars",
+    "name": "Kars"
+  },
+  {
+    "value": "kastamonu",
+    "name": "Kastamonu"
+  },
+  {
+    "value": "kayseri",
+    "name": "Kayseri"
+  },
+  {
+    "value": "kirklareli",
+    "name": "Kırklareli"
+  },
+  {
+    "value": "kirsehir",
+    "name": "Kırşehir"
+  },
+  {
+    "value": "kocaeli",
+    "name": "Kocaeli"
+  },
+  {
+    "value": "konya",
+    "name": "Konya"
+  },
+  {
+    "value": "kutahya",
+    "name": "Kütahya"
+  },
+  {
+    "value": "malatya",
+    "name": "Malatya"
+  },
+  {
+    "value": "manisa",
+    "name": "Manisa"
+  },
+  {
+    "value": "kahramanmaras",
+    "name": "Kahramanmaraş"
+  },
+  {
+    "value": "mardin",
+    "name": "Mardin"
+  },
+  {
+    "value": "mugla",
+    "name": "Muğla"
+  },
+  {
+    "value": "mus",
+    "name": "Muş"
+  },
+  {
+    "value": "nevsehir",
+    "name": "Nevşehir"
+  },
+  {
+    "value": "nigde",
+    "name": "Niğde"
+  },
+  {
+    "value": "ordu",
+    "name": "Ordu"
+  },
+  {
+    "value": "rize",
+    "name": "Rize"
+  },
+  {
+    "value": "sakarya",
+    "name": "Sakarya"
+  },
+  {
+    "value": "samsun",
+    "name": "Samsun"
+  },
+  {
+    "value": "siirt",
+    "name": "Siirt"
+  },
+  {
+    "value": "sinop",
+    "name": "Sinop"
+  },
+  {
+    "value": "sivas",
+    "name": "Sivas"
+  },
+  {
+    "value": "tekirdag",
+    "name": "Tekirdağ"
+  },
+  {
+    "value": "tokat",
+    "name": "Tokat"
+  },
+  {
+    "value": "trabzon",
+    "name": "Trabzon"
+  },
+  {
+    "value": "tunceli",
+    "name": "Tunceli"
+  },
+  {
+    "value": "sanliurfa",
+    "name": "Şanlıurfa"
+  },
+  {
+    "value": "usak",
+    "name": "Uşak"
+  },
+  {
+    "value": "van",
+    "name": "Van"
+  },
+  {
+    "value": "yozgat",
+    "name": "Yozgat"
+  },
+  {
+    "value": "zonguldak",
+    "name": "Zonguldak"
+  },
+  {
+    "value": "aksaray",
+    "name": "Aksaray"
+  },
+  {
+    "value": "bayburt",
+    "name": "Bayburt"
+  },
+  {
+    "value": "karaman",
+    "name": "Karaman"
+  },
+  {
+    "value": "kirikkale",
+    "name": "Kırıkkale"
+  },
+  {
+    "value": "batman",
+    "name": "Batman"
+  },
+  {
+    "value": "sirnak",
+    "name": "Şırnak"
+  },
+  {
+    "value": "bartin",
+    "name": "Bartın"
+  },
+  {
+    "value": "ardahan",
+    "name": "Ardahan"
+  },
+  {
+    "value": "igdir",
+    "name": "Iğdır"
+  },
+  {
+    "value": "yalova",
+    "name": "Yalova"
+  },
+  {
+    "value": "karabuk",
+    "name": "Karabük"
+  },
+  {
+    "value": "kilis",
+    "name": "Kilis"
+  },
+  {
+    "value": "osmaniye",
+    "name": "Osmaniye"
+  },
+  {
+    "value": "duzce",
+    "name": "Düzce"
+  }
+]

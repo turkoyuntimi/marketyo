@@ -1,0 +1,1526 @@
+[
+  {
+    "name": "2A Gross Toptan Market",
+    "src": "2agross.png",
+    "url": "https://www.2agross.marketyo.net/",
+    "filter": [
+      "van"
+    ]
+  },
+  {
+    "name": "Ada Gross",
+    "src": "ada.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Akın Market",
+    "src": "akin.png",
+    "url": null,
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Altunbilekler",
+    "src": "altunbilekler.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Avcı Gıda",
+    "src": "avci.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Aypam",
+    "src": "aypam.png",
+    "url": "https://www.aypam.com.tr/",
+    "filter": [
+      "trabzon"
+    ]
+  },
+  {
+    "name": "Bakkal Ali",
+    "src": "bakkalali.png",
+    "url": null,
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Balmar Marketler Zinciri",
+    "src": "balmar.png",
+    "url": "https://www.balmaronline.com/",
+    "filter": [
+      "bartin",
+      "bilecik"
+    ]
+  },
+  {
+    "name": "Barış Gross",
+    "src": "barisgross.png",
+    "url": "https://barisgrossonlinemagaza.com",
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Başdaş Market",
+    "src": "basdasonline.png",
+    "url": "https://www.basdasonline.com/",
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Başgimpa",
+    "src": "basgimpa.png",
+    "url": "https://www.basgimpa.com.tr/",
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Ekobaymar",
+    "src": "baymar.png",
+    "url": "https://ekobaymar.com/",
+    "filter": [
+      "mersin"
+    ]
+  },
+  {
+    "name": "Bee Gross",
+    "src": "beegross.png",
+    "url": "http://www.beesanalgross.com.tr/",
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Beğendik",
+    "src": "begendik.png",
+    "url": "https://www.begendik.com/",
+    "filter": [
+      "ankara",
+      "kayseri"
+    ]
+  },
+  {
+    "name": "Big Gross",
+    "src": "biggross.png",
+    "url": null,
+    "filter": [
+      "diyarbakir"
+    ]
+  },
+  {
+    "name": "Bimar",
+    "src": "bimar.png",
+    "url": null,
+    "filter": [
+      "nigde"
+    ]
+  },
+  {
+    "name": "Boyumar",
+    "src": "boyumar.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Bravo Market",
+    "src": "bravo.png",
+    "url": "https://www.bravomarketonline.com/",
+    "filter": [
+      "adana"
+    ]
+  },
+  {
+    "name": "Çağlayan Hipermarket",
+    "src": "caglayan.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Çamlıca",
+    "src": "camlica.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Canpolatlar",
+    "src": "canpolatlar.png",
+    "url": "https://www.canpolatlaronline.com/",
+    "filter": [
+      "sanliurfa"
+    ]
+  },
+  {
+    "name": "Çelikkayalar",
+    "src": "celikkayalar.png",
+    "url": "https://www.celikkayalaronline.com/",
+    "filter": [
+      "konya"
+    ]
+  },
+  {
+    "name": "Cergibozanlar",
+    "src": "cergionline.png",
+    "url": "https://cergionline.com/",
+    "filter": [
+      "gaziantep"
+    ]
+  },
+  {
+    "name": "Çetinler",
+    "src": "cetinler.png",
+    "url": null,
+    "filter": [
+      "aydin"
+    ]
+  },
+  {
+    "name": "Dempa AVM",
+    "src": "dempa.png",
+    "url": null,
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Dev Gross",
+    "src": "devgross.png",
+    "url": "https://www.devgrossonline.com/",
+    "filter": [
+      "samsun"
+    ]
+  },
+  {
+    "name": "Düzgün Marketler Grubu",
+    "src": "duzgunmarket.png",
+    "url": "https://www.duzgunmarket.com/",
+    "filter": [
+      "erzurum"
+    ]
+  },
+  {
+    "name": "Ecemar",
+    "src": "ecemar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Ege Salı Pazarı",
+    "src": "egesali.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Ege Şok",
+    "src": "egesok.png",
+    "url": "https://www.egesok.com.tr/",
+    "filter": [
+      "usak"
+    ]
+  },
+  {
+    "name": "Ekolife",
+    "src": "ekolife.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Ergün Gıda",
+    "src": "ergun.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Et Balık Market",
+    "src": "etbalikmarket.png",
+    "url": null,
+    "filter": [
+      "kayseri"
+    ]
+  },
+  {
+    "name": "Furpa",
+    "src": "furpa.png",
+    "url": "https://www.furpa.com.tr/",
+    "filter": [
+      "bursa"
+    ]
+  },
+  {
+    "name": "Gencerler",
+    "src": "gencerler.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Gökhan Market",
+    "src": "gokhan.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Gökkuşağı",
+    "src": "gokkusagi.png",
+    "url": "https://www.gokkusagimarket.com.tr/",
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Gourmet Garage",
+    "src": "gourmet.png",
+    "url": "https://www.gourmetgarage.com.tr/",
+    "filter": [
+      "istanbul",
+      "mugla"
+    ]
+  },
+  {
+    "name": "Gözde",
+    "src": "gozde.png",
+    "url": null,
+    "filter": [
+      "manisa"
+    ]
+  },
+  {
+    "name": "Gün Market",
+    "src": "gun.png",
+    "url": "https://www.gun.com.tr/",
+    "filter": [
+      "denizli"
+    ]
+  },
+  {
+    "name": "Gürsoy AVM",
+    "src": "gursoyavm.png",
+    "url": null,
+    "filter": [
+      "karaman"
+    ]
+  },
+  {
+    "name": "Heybegross",
+    "src": "heybegross.png",
+    "url": null,
+    "filter": [
+      "gaziantep"
+    ]
+  },
+  {
+    "name": "İdeal",
+    "src": "ideal.png",
+    "url": null,
+    "filter": [
+      "agri"
+    ]
+  },
+  {
+    "name": "İdeal Hipermarket",
+    "src": "idealhiper.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Kesmar Market",
+    "src": "kesmar.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Mavzer Sanal Market",
+    "src": "mavzer.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Melisa",
+    "src": "melisa.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Mevsim",
+    "src": "mevsim.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Muhtar AVM",
+    "src": "muhtar.png",
+    "url": null,
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Murat Market",
+    "src": "muratmarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Nesil",
+    "src": "nesil.png",
+    "url": null,
+    "filter": [
+      "kutahya"
+    ]
+  },
+  {
+    "name": "Nurtaş Market",
+    "src": "nurtas.png",
+    "url": "https://nurtasmarket.com/",
+    "filter": [
+      "amasya"
+    ]
+  },
+  {
+    "name": "Oli Center",
+    "src": "olicenter.png",
+    "url": "https://www.olisanal.com/",
+    "filter": [
+      "gaziantep"
+    ]
+  },
+  {
+    "name": "Ondan Market",
+    "src": "ondan.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Önder Şekerleme AVM",
+    "src": "onder.png",
+    "url": null,
+    "filter": [
+      "isparta"
+    ]
+  },
+  {
+    "name": "Onur Market",
+    "src": "onur.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Onur Grup",
+    "src": "onuronline.png",
+    "url": "https://onuronline.com/",
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Onur Market",
+    "src": "onurozen.png",
+    "url": "https://www.onurmarket.com/",
+    "filter": [
+      "istanbul",
+	  "bursa"
+    ]
+  },
+  {
+    "name": "Örnek AVM",
+    "src": "ornek.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Oruç Market",
+    "src": "oruc.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Özbesin",
+    "src": "ozbesin.png",
+    "url": "https://www.ozbesin.com/",
+    "filter": [
+      "eskisehir"
+    ]
+  },
+  {
+    "name": "Özhan Marketler Zinciri",
+    "src": "ozhan.png",
+    "url": "https://www.ozhan.com.tr/",
+    "filter": [
+      "bursa"
+    ]
+  },
+  {
+    "name": "Özmar",
+    "src": "ozmar.png",
+    "url": "https://www.ozmaronline.com/",
+    "filter": [
+      "zonguldak"
+    ]
+  },
+  {
+    "name": "Özpaş",
+    "src": "ozpas.png",
+    "url": "https://ozpasonline.com/",
+    "filter": [
+      "sakarya"
+    ]
+  },
+  {
+    "name": "Pazar 412",
+    "src": "pazar412.png",
+    "url": null,
+    "filter": [
+      "diyarbakir"
+    ]
+  },
+  {
+    "name": "Rammar Sanal Market",
+    "src": "rammar.png",
+    "url": "https://www.rammarsanal.com/",
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Rimal Sanal Market",
+    "src": "rimal.png",
+    "url": "https://www.rimalsanalmarket.com/",
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Saf Bakkal",
+    "src": "safbakkal.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Sarıyer Sanal Market",
+    "src": "sariyer.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Şekerciler",
+    "src": "sekerciler.png",
+    "url": "https://sekercileronline.com/",
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Sen İste",
+    "src": "seniste.png",
+    "url": null,
+    "filter": [
+      "gaziantep"
+    ]
+  },
+  {
+    "name": "Sepet Market",
+    "src": "sepet.png",
+    "url": null,
+    "filter": [
+      "iskenderun"
+    ]
+  },
+  {
+    "name": "Şevkioğlu",
+    "src": "sevikoglu.png",
+    "url": "https://www.sevikoglu.com/",
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Seyhanlar Market",
+    "src": "seyhanlar.png",
+    "url": "https://www.seyhanlar.com/",
+    "filter": [
+      "bursa"
+    ]
+  },
+  {
+    "name": "Seyhanlar İstanbul",
+    "src": "seyhanlarist.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Show Sanal Market",
+    "src": "showsanal.png",
+    "url": "https://www.showsanal.com/",
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Şimdi Kapıda",
+    "src": "simdikapida.png",
+    "url": "https://www.simdikapida.com/",
+    "filter": [
+      "yozgat"
+    ]
+  },
+  {
+    "name": "Simge Market",
+    "src": "simge.png",
+    "url": "https://www.simgemarket.com.tr/",
+    "filter": [
+      "hatay"
+    ]
+  },
+  {
+    "name": "Snowy Ulu Kardeşler",
+    "src": "snowy.png",
+    "url": "https://snowymarket.com/",
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Sönmez Süpermarket",
+    "src": "sonmez.png",
+    "url": null,
+    "filter": [
+      "hatay"
+    ]
+  },
+  {
+    "name": "Söz Sanal Market",
+    "src": "soz.png",
+    "url": null,
+    "filter": [
+      "afyonkarahisar"
+    ]
+  },
+  {
+    "name": "Tahtakale Spot",
+    "src": "tahtakalespot.png",
+    "url": "https://tahtakalespot.com/",
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Tarla Burada",
+    "src": "tarlaburda.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Taşmar Marketleri",
+    "src": "tasmar.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Umut Şarküteri",
+    "src": "umutsarkuteri.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Üreticiden",
+    "src": "ureticiden.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Uygar Market",
+    "src": "uygar.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Yeni Hisar",
+    "src": "yenihisar.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Yıldızlar Grup",
+    "src": "yildizlar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Yunus",
+    "src": "yunus.png",
+    "url": "https://www.yunusonline.com/",
+    "filter": [
+      "ankara",
+      "aksaray",
+      "cankırı",
+      "corum",
+      "duzce",
+      "kırsehir",
+      "sivas",
+      "tokat",
+      "yozgat"
+    ]
+  },
+  {
+    "name": "Şimşekler",
+    "src": "simsekler.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Kapadokya Alışveriş Merkezi",
+    "src": "kapadokya.png",
+    "url": null,
+    "filter": [
+      "nevsehir"
+    ]
+  },
+  {
+    "name": "ARU Grup",
+    "src": "arugrup.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Vuugi Market",
+    "src": "vuugi.png",
+    "url": null,
+    "filter": [
+      "mersin"
+    ]
+  },
+  {
+    "name": "Darıca Market",
+    "src": "darica.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Bildirici Market",
+    "src": "bildirici.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Adadakiler",
+    "src": "adadakiler.png",
+    "url": null,
+    "filter": [
+      "sakarya"
+    ]
+  },
+  {
+    "name": "Kilpa",
+    "src": "kilpa.png",
+    "url": null,
+    "filter": [
+      "trabzon"
+    ]
+  },
+  {
+    "name": "Üçler",
+    "src": "ucler.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Mars Market",
+    "src": "mars.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Şehzade Market",
+    "src": "sehzade.png",
+    "url": null,
+    "filter": [
+      "kayseri"
+    ]
+  },
+  {
+    "name": "Usam Gross",
+    "src": "usam.png",
+    "url": null,
+    "filter": [
+      "konya"
+    ]
+  },
+  {
+    "name": "Ananas Gurme",
+    "src": "ananasgurme.png",
+    "url": null,
+    "filter": [
+      "konya"
+    ]
+  },
+  {
+    "name": "Kılıç Market",
+    "src": "kilic.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Kartal Market",
+    "src": "kartal.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Bengi Market",
+    "src": "bengi.png",
+    "url": null,
+    "filter": [
+      "aydin"
+    ]
+  },
+  {
+    "name": "Tam İstediğin Market",
+    "src": "tamistedigin.png",
+    "url": null,
+    "filter": [
+      "balikesir"
+    ]
+  },
+  {
+    "name": "Okancan Market",
+    "src": "okancan.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "İfa Market",
+    "src": "ifa.png",
+    "url": null,
+    "filter": [
+      "sinop"
+    ]
+  },
+  {
+    "name": "Ne Lazımsa Market",
+    "src": "nelazimsa.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Migall Gross",
+    "src": "migallgross.png",
+    "url": null,
+    "filter": [
+      "kayseri"
+    ]
+  },
+  {
+    "name": "Şeker A",
+    "src": "sekera.png",
+    "url": null,
+    "filter": [
+      "karabuk"
+    ]
+  },
+  {
+    "name": "Günmar",
+    "src": "gunmar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Saatçioğlu",
+    "src": "saatcioglu.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Altın Gross",
+    "src": "altingross.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Happy Center",
+    "src": "happycenter.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "ŞehriGül",
+    "src": "sehrigul.png",
+    "url": null,
+    "filter": [
+      "isparta"
+    ]
+  },
+  {
+    "name": "Heybem",
+    "src": "heybem.png",
+    "url": null,
+    "filter": [
+      "karabuk"
+    ]
+  },
+  {
+    "name": "Efece",
+    "src": "efece.png",
+    "url": null,
+    "filter": [
+      "isparta"
+    ]
+  },
+  {
+    "name": "Erfa",
+    "src": "erfa.png",
+    "url": null,
+    "filter": [
+      "bilecik"
+    ]
+  },
+  {
+    "name": "Paşalı Market",
+    "src": "pasali.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Çağrı AVM",
+    "src": "cagri.png",
+    "url": null,
+    "filter": [
+      "nigde"
+    ]
+  },
+  {
+    "name": "Birmar Market",
+    "src": "birmar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Karabıyık Market",
+    "src": "karabiyik.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Bafra Gross",
+    "src": "bafragross.png",
+    "url": null,
+    "filter": [
+      "samsun"
+    ]
+  },
+  {
+    "name": "Gimat Gross",
+    "src": "gimatgross.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Yeni Bosna Sanalmarket",
+    "src": "ys_market.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Grup Gökkuşağı",
+    "src": "grup_gokkusagi.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Adıvar Market",
+    "src": "adivar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "VIP Group",
+    "src": "vip_group.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Yuva Market",
+    "src": "yuva_market.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Fırsat World",
+    "src": "firsat_world.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Sanal Süpermarket",
+    "src": "sanalsupermarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Murat Gıda",
+    "src": "murat_gida.png",
+    "url": null,
+    "filter": [
+      "isparta"
+    ]
+  },
+  {
+    "name": "Bonmarşe",
+    "src": "bonmarse.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Masal Market",
+    "src": "masal.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "En Tazem",
+    "src": "entazem.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Bizim Gross Hilvan",
+    "src": "bizimgrosshilvan.png",
+    "url": null,
+    "filter": [
+      "sanliurfa"
+    ]
+  },
+  {
+    "name": "Hepmar Market",
+    "src": "hepmar.png",
+    "url": null,
+    "filter": [
+      "gaziantep"
+    ]
+  },
+  {
+    "name": "Seç Gold Market",
+    "src": "secgoldmarket.png",
+    "url": null,
+    "filter": [
+      "karaman"
+    ]
+  },
+  {
+    "name": "Güven Unlu Mamülleri",
+    "src": "guvenunlumamulleri.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "YHM AVM",
+    "src": "yhmavm.png",
+    "url": null,
+    "filter": [
+      "karaman"
+    ]
+  },
+  {
+    "name": "Özen Market",
+    "src": "ozenmarket.png",
+    "url": null,
+    "filter": [
+      "sinop"
+    ]
+  },
+  {
+    "name": "Elmalı Market",
+    "src": "elmalimarket.png",
+    "url": null,
+    "filter": [
+      "antalya"
+    ]
+  },
+  {
+    "name": "Bereket Gross",
+    "src": "bereketgross.png",
+    "url": null,
+    "filter": [
+      "sanliurfa"
+    ]
+  },
+  {
+    "name": "Taze Market",
+    "src": "tazemarket.png",
+    "url": null,
+    "filter": [
+      "trabzon"
+    ]
+  },
+  {
+    "name": "Nata Gross",
+    "src": "natagross.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Uygun Market",
+    "src": "uygunmarket.png",
+    "url": null,
+    "filter": [
+      "kars"
+    ]
+  },
+  {
+    "name": "Mestay Market",
+    "src": "mestaymarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Damla Hipermarket",
+    "src": "damlahipermarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Aypa Market",
+    "src": "aypamarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Mandalin Market",
+    "src": "mandalinmarket.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Gold Hipermarket",
+    "src": "gold_center.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Anafartalar Market",
+    "src": "anafartalar.png",
+    "url": null,
+    "filter": [
+      "canakkale"
+    ]
+  },
+  {
+    "name": "Hegmar Market",
+    "src": "hegmar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Doğa Peynircilik",
+    "src": "doga_peynircilik.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Papatya Market",
+    "src": "papatya_market.png",
+    "url": null,
+    "filter": [
+      "samsun"
+    ]
+  },
+  {
+    "name": "Muhabbet Kasabı",
+    "src": "muhabbet_kasabi.png",
+    "url": null,
+    "filter": [
+      "tekirdag"
+    ]
+  },
+  {
+    "name": "Esen Market",
+    "src": "esen_market.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Çakmak Market",
+    "src": "cakmak_market.png",
+    "url": null,
+    "filter": [
+      "kocaeli"
+    ]
+  },
+  {
+    "name": "Jumbo Gross",
+    "src": "jumbo_gross.png",
+    "url": null,
+    "filter": [
+      "mersin"
+    ]
+  },
+  {
+    "name": "Girginler Market",
+    "src": "girginler_market.png",
+    "url": null,
+    "filter": [
+      "manisa"
+    ]
+  },
+  {
+    "name": "Yaprak Şarküteri",
+    "src": "yaprak_sarkuteri.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Kösem Market",
+    "src": "kosem_market.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Eren Market",
+    "src": "eren_market.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Doğan Market",
+    "src": "dogan_market.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Bozdağ Market",
+    "src": "bozdag_market.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Çakır Market",
+    "src": "cakir_market.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Grosmar Market",
+    "src": "grosmar.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Canan Market",
+    "src": "canan_market.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Yaka Market",
+    "src": "yaka_market.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Hira Market",
+    "src": "hira_market.png",
+    "url": null,
+    "filter": [
+      "balikesir"
+    ]
+  },
+  {
+    "name": "Servis Market",
+    "src": "servis_market.png",
+    "url": null,
+    "filter": [
+      "mersin"
+    ]
+  },
+  {
+    "name": "Nisan Market",
+    "src": "nisan_market.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Kandemir Market",
+    "src": "kandemir_market.png",
+    "url": null,
+    "filter": [
+      "kutahya"
+    ]
+  },
+  {
+    "name": "Kahraman Gross",
+    "src": "kahraman_market.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "Asya Market",
+    "src": "asya_market.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  },
+  {
+    "name": "İsra Market",
+    "src": "isra_market.png",
+    "url": null,
+    "filter": [
+      "bursa"
+    ]
+  },
+  {
+    "name": "Cemre Market",
+    "src": "cemre_market.png",
+    "url": null,
+    "filter": [
+      "canakkale"
+    ]
+  },
+  {
+    "name": "Demkaya Market",
+    "src": "demkaya_market.png",
+    "url": null,
+    "filter": [
+      "isparta"
+    ]
+  },
+  {
+    "name": "Kadıhan Market",
+    "src": "kadihan_market.png",
+    "url": null,
+    "filter": [
+      "mugla"
+    ]
+  },
+  {
+    "name": "Yaka Market",
+    "src": "yaka_market_van.png",
+    "url": null,
+    "filter": [
+      "van"
+    ]
+  },
+  {
+    "name": "Naturel Yaşam Dükkanı",
+    "src": "natural_yasam_dukkani_market.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "MD Doğuş Market",
+    "src": "marketbizde_market.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Beşpınar Market",
+    "src": "bespinar_hipermarket.png",
+    "url": null,
+    "filter": [
+      "istanbul"
+    ]
+  },
+  {
+    "name": "Arjantin Market",
+    "src": "arjantin_market.png",
+    "url": null,
+    "filter": [
+      "edirne"
+    ]
+  },
+  {
+    "name": "Organik Gurmem Market",
+    "src": "organikgurme_market.png",
+    "url": null,
+    "filter": [
+      "edirne"
+    ]
+  },
+  {
+    "name": "MD Kardelen Market",
+    "src": "md_kardelen_market.png",
+    "url": null,
+    "filter": [
+      "ankara"
+    ]
+  },
+  {
+    "name": "Halifpehlivanoğlu Market",
+    "src": "halifpehlivanoglu_market.png",
+    "url": null,
+    "filter": [
+      "izmir"
+    ]
+  }
+]
